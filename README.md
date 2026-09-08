@@ -1,86 +1,219 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=1DA1F2&center=true&vCenter=true&width=800&lines=Hello+World+👋;I'm+Gerard+Ugwu+Onyedikachi;Backend+Developer+🚀;Python+Enthusiast+🐍;ALX+ProDev+Learner+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=1DA1F2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Gerard+Ugwu+👋;Junior+Software+Developer+💻;Backend+%26+Full-Stack+Developer;Python+%7C+Django+%7C+FastAPI" alt="Typing SVG" />
 </h1>
-<h3 align="center">🚀 Backend Developer | Python Enthusiast | ALX ProDev Learner</h3>
+
+<h3 align="center">
+  Junior Software Developer | Backend & Full-Stack Engineering
+</h3>
+
+<p align="center">
+  Python • Django • FastAPI • REST APIs • PostgreSQL • TypeScript • React Native
+</p>
+
+<p align="center">
+  I build practical software that solves real problems — from backend services and APIs to complete web and mobile applications.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Deglobeal">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/gerard-ugwu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:deglobeal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+    <a href="https://wa.me/2347047574696">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gerardugwu&label=Profile%20views&color=0e75b6&style=flat" alt="gerardugwu" />
 </p>
 
 ---
-<p align="center">
-  <a href="https://www.linkedin.com/in/gerardugwu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/gerard_ugwu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:kachimaxy1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/2347032388531"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
----
 
-### 🧭 About Me
+## 👨‍💻 About Me
 
-- 💡 I’m currently a learner at **ALX ProDev Backend**, building strong foundations in backend software engineering.
-- 🐍 I'm passionate about **Python** and love solving real-world problems through code.
-- 🛠️ My current focus: **Django, DRF, FastAPI, PostgreSQL, and system architecture**.
-- 💼 I’m actively seeking internship or junior backend roles to apply and grow my skills.
-- 🤝 I’m open to collaborating on meaningful backend and full-stack projects.
+I'm a **Junior Software Developer** focused on building reliable backend systems, APIs, and practical applications.
 
----
+My development experience includes:
 
-### 🛠️ Tech Stack
+* 🐍 **Python, Django, Django REST Framework and FastAPI**
+* 🔐 **Authentication, authorization and security-focused backend services**
+* 🗄️ **PostgreSQL, MySQL, SQLite and database-driven applications**
+* 🔄 **SQLAlchemy, Alembic and database migrations**
+* ⚙️ **Celery, Redis and background processing**
+* 📱 **React Native, Expo and TypeScript**
+* 🧪 **Automated testing, API testing and debugging**
+* 🚀 **Git, GitHub, Linux and cloud deployment workflows**
+* 🎓 **ALX Alumni**
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
+I'm currently focused on growing as a **junior backend/full-stack developer** while building production-oriented projects that demonstrate practical engineering ability.
 
 ---
 
-<div style="background-color: #f3f4f6; padding: 20px; border-radius: 10px">
-
-### 📘 My Learning Journey
-
-<ul>
-  <li>✔️ ALX Projects: Command-line tools, web APIs, authentication systems, async tasks.</li>
-  <li>🧪 Practice: Building real-world clones and RESTful APIs from scratch using DRF and Django.</li>
-  <li>📚 Reading: <strong>Clean Code</strong> by Robert C. Martin, <em>Python Cookbook</em> by David Beazley.</li>
-</ul>
-
-</div>
-
----
-
-### 🔭 Featured Projects
+## 🧩 What I Build
 
 <table>
-  <tr>
-    <td><strong>🏠 Airbnb Clone</strong></td>
-    <td><strong>🔗 <a href="https://github.com/Deglobeal/airbnb-clone-project">GitHub Repo</a></strong></td>
-  </tr>
-  <tr>
-    <td colspan="2">A backend-focused Airbnb clone built with Django, handling users, listings, and bookings with full API coverage.</td>
-  </tr>
+<tr>
+<td align="center" width="33%">
 
-  <tr>
-    <td><strong>📚 Library Management API</strong></td>
-    <td><strong>🔗 <a href="https://github.com/Deglobeal/library_management">GitHub Repo</a></strong></td>
-  </tr>
-  <tr>
-    <td colspan="2">An advanced REST API for managing book inventories, users, and borrow transactions. Includes role-based access and Celery for notifications.</td>
-  </tr>
+### 🔌 REST APIs
 
-  <tr>
-    <td><strong>📝 To-Do List API</strong></td>
-    <td><strong>🔗 <a href="https://github.com/Deglobeal/todo-api">GitHub Repo</a></strong></td>
-  </tr>
-  <tr>
-    <td colspan="2">CRUD API built with Django REST Framework. Features user authentication and project-based task management.</td>
-  </tr>
+Designing and building structured APIs for real-world applications.
+
+</td>
+<td align="center" width="33%">
+
+### 🔐 Authentication
+
+Secure authentication, authorization, tokens, roles and user management.
+
+</td>
+<td align="center" width="33%">
+
+### 🧱 Microservices
+
+Building focused backend services that can operate independently.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🌐 Full-Stack Apps
+
+Connecting backend systems with practical user-facing applications.
+
+</td>
+<td align="center">
+
+### 📱 Mobile Apps
+
+Building cross-platform applications with React Native and Expo.
+
+</td>
+<td align="center">
+
+### 🚀 Deployments
+
+Taking applications from development toward real production environments.
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deglobeal&show_icons=true&theme=tokyonight&count_private=true" alt="Gerard's GitHub stats" />
-</p>
+### 🏗️ BuildOS
+Construction-focused platform with web applications, backend services and authentication infrastructure.
+
+**Stack:** Python · FastAPI · Django · PostgreSQL · TypeScript · React
+
+[🌐 Live Demo](https://buildoshub.vercel.app/)
+
+---
+
+### ✅ Todo Diary
+Cross-platform task management application with scheduling, recurrence, notifications and productivity features.
+
+**Stack:** React Native · Expo · TypeScript
+
+[🌐 Live Demo](https://taskoramint.vercel.app/) · [📱 Download APK](YOUR_DRIVE_LINK)
+
+---
+
+### 💰 Money/Todo
+A mobile productivity application combining task management with estimated and actual cost tracking.
+
+**Stack:** React Native · Expo · TypeScript
+
+[📱 Download APK](YOUR_DRIVE_LINK)
+
+---
+
+### 🔐 BuildOS Authentication Services
+Backend authentication infrastructure supporting authentication, security events, login attempts, password resets and token management.
+
+**Stack:** Python · FastAPI · SQLAlchemy · Alembic
+
+[🔐 Auth API Docs](https://zero18-buildos-auth-service.onrender.com/docs) · [🔌 User API Docs](https://zero19-buildos-user-service.onrender.com/docs)
+
+---
+
+### 🌐 Django Portfolio
+My developer portfolio showcasing my projects, skills, experience and technical work.
+
+[🌐 Visit Portfolio](https://gerardugwu.vercel.app/)
+## 🛠️ Technology Ecosystem
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square\&logo=celery\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+
+### Databases & Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-Database_Migrations-444444?style=flat-square)
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
+
+### DevOps & Cloud
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+
+### Testing & API Tools
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square\&logo=pytest\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+
+---
+
+## ⚙️ Engineering Highlights
+
+| Area                     | What I Work With                                                |
+| ------------------------ | --------------------------------------------------------------- |
+| 🔐 Authentication        | User authentication, authorization, tokens and account security |
+| 🔌 API Engineering       | REST API design, CRUD operations and service integration        |
+| 🗄️ Database Engineering | Data modeling, SQL databases and migrations                     |
+| ⚙️ Async Processing      | Celery, Redis and background task workflows                     |
+| 🧪 Testing               | Automated tests, API testing and debugging                      |
+| 🚀 Deployment            | Cloud deployment and production-oriented workflows              |
+| 🌿 Version Control       | Git, GitHub and collaborative development workflows             |
+
+---
+
+## 📈 GitHub Stats
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Deglobeal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Gerard's GitHub streak" />
@@ -88,80 +221,46 @@
 
 ---
 
-### 🏅 Certificates
+## 🎓 Education & Credentials
 
-<div align="center" style="background-color: #f9fafb; padding: 15px; border-radius: 10px;">
+### ALX Alumni
 
-<!-- Row 1 -->
+**ALX Software Engineering / ProDev**
+
+Focused on practical software engineering, backend development, APIs, authentication, databases and collaborative project work.
+
+---
+
+## 🏅 Certificates
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/70-back-end-web-development-certificate-gerard-onyedikachi.png" height="180" />
 <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/52-professional-foundations-certificate-gerard-onyedikachi.png" height="180" />
 
-<!-- Row 2 -->
+<br />
+
 <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/32ca0c8e-963e-442c-b453-59e2e54f2953.png" height="180" />
 <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/6f94b6ce-01f3-4166-a8ee-ff094123167a.png" height="180" />
 <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/306d8cce-2c43-4a55-8a69-3074a7e52c8e.png" height="180" />
 
-<!-- Row 3 -->
+<br />
+
 <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/0e404813-79ad-4ddf-882a-fed87702bc58.png" height="180" />
 <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/2b223bbc-24e5-4f41-904d-2dee066f8eb2.png" height="180" />
 <img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/c5bd6fe2-f26e-4141-a40b-9ad076e11f58.png" height="180" />
 
 </div>
 
-<p align="center">
-  <em>Click on a certificate to view full size</em>
-</p>
-
 ---
 
-### 🛠️ My Skills
 
-| Skill         | Proficiency |
-|---------------|-------------|
-| **HTML**      | ██████████████████░░ 80% |
-| **CSS**       | ████████████████░░░░ 80% |
-| **JavaScript**| ███████████░░░░░░░░░ 55% |
-| **TypeScript**| ███████████░░░░░░░░░ 55% |
-| **Git**       | ██████████████░░░░░░ 85% |
-| **PHP**       | ████████████████░░░░ 87% |
-| **PostgreSQL**| ██████████████░░░░░░ 85% |
-| **MySQL**     | ████████████░░░░░░░░ 65% |
-| **Python**    | ████████████░░░░░░░░ 70% |
-| **Node.js**   | ██▏░░░░░░░░░░░░░░░░ 20% |
-| **Next.js**   | █░░░░░░░░░░░░░░░░░░░ 20% |
-| **Docker**    | ▎░░░░░░░░░░░░░░░░░░  5% |
+## 🚀 Let's Build
 
-> 💡 *These bars represent my current comfort level. I grow with every project I build.*
+> **I build practical software that solves real problems — from backend services and APIs to complete web and mobile applications.**
 
----
-
-| Soft Skill              | Description                                                                                                       |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Problem-Solving**     | Skilled at breaking down complex challenges and designing effective backend solutions.                            |
-| **Communication**       | Clear in documenting, explaining code, and collaborating across technical and non-technical teams.                |
-| **Teamwork**            | Comfortable working in agile teams, contributing to collective goals, and giving/receiving constructive feedback. |
-| **Adaptability**        | Quick to learn new technologies and adapt to changing project requirements.                                       |
-| **Attention to Detail** | Ensures clean, maintainable, and error-free code through thorough testing and review.                             |
-| **Time Management**     | Efficient in balancing learning, coding, and deadlines, especially in remote and async environments.              |
-
-----
-
-### 🌐 Connect With Me
+I'm open to **Junior Software Developer, Backend Developer and Full-Stack Developer opportunities** where I can contribute, learn and build useful products.
 
 <p align="center">
-  <a href="mailto:kachimaxy1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gerardugwu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/gerard_ugwu">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://wa.me/2347032388531" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <strong>💻 Build. Learn. Ship. Improve.</strong>
 </p>
-
-> 🎯 *“I’m building the backend one project at a time — let’s connect and make something impactful together!”*
-

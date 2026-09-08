@@ -235,25 +235,41 @@ Focused on practical software engineering, backend development, APIs, authentica
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/70-back-end-web-development-certificate-gerard-onyedikachi.png" height="180" />
-<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/52-professional-foundations-certificate-gerard-onyedikachi.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/backendalx.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/backendhng.png" height="180" />
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/32ca0c8e-963e-442c-b453-59e2e54f2953.png" height="180" />
-<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/6f94b6ce-01f3-4166-a8ee-ff094123167a.png" height="180" />
-<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/306d8cce-2c43-4a55-8a69-3074a7e52c8e.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/developskils.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/prodevalx.png" height="180" />
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/0e404813-79ad-4ddf-882a-fed87702bc58.png" height="180" />
-<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/2b223bbc-24e5-4f41-904d-2dee066f8eb2.png" height="180" />
-<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/c5bd6fe2-f26e-4141-a40b-9ad076e11f58.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/profedevelop.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/devopshng.png" height="180" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/frontendhng.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/htmlsololearn.png" height="180" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/webdevsololearn.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/csssololearn.png" height="180" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/sql.png" height="180" />
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/sqlintersololearn.png" height="180" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/Deglobeal/deglobe/main/certificates/php.png" height="180" />
 
 </div>
 
 ---
-
 
 ## 🚀 Let's Build
 

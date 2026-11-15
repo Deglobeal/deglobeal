@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=1DA1F2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Gerard+Ugwu+👋;Junior+Software+Developer+💻;Backend+%26+Full-Stack+Developer;Python+%7C+Django+%7C+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=1DA1F2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Gerard+Ugwu+👋;Fullstack+Software+Developer+💻;Backend+%26+Full-Stack+Developer;Python+%7C+Django+%7C+FastAPI" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  Junior Software Developer | Backend & Full-Stack Engineering
+  Software Developer | Backend & Full-Stack Engineering
 </h3>
 
 <p align="center">

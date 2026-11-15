@@ -38,7 +38,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Software Developer** focused on building reliable backend systems, APIs, and practical applications.
+I'm a **Fullstack Software Developer** focused on building reliable backend systems, APIs, and practical applications.
 
 My development experience includes:
 
@@ -52,7 +52,7 @@ My development experience includes:
 * 🚀 **Git, GitHub, Linux and cloud deployment workflows**
 * 🎓 **ALX Alumni**
 
-I'm currently focused on growing as a **junior backend/full-stack developer** while building production-oriented projects that demonstrate practical engineering ability.
+I'm currently focused on growing as a **backend/full-stack developer** while building production-oriented projects that demonstrate practical engineering ability.
 
 ---
 
